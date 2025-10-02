@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# CharWash
+
+A simple tool for extracting characters from pasted text.
+
+This project includes:
+**Backend**: Handles character extraction logic.
+**Frontend**: A lightweight UI for pasting text, viewing, and optionally downloading extracted characters.
+
+## Features
+
+- Paste text into the interface.
+
+- Extracts all unique characters, including letters, numbers, punctuation, and symbols.
+
+- Displays results instantly in the browser.
+
+- No external server or database required.
+
+## Tech Stack
+
+- JavaScript (character extraction logic)
+
+- HTML/CSS (frontend interface)
+
+## Installation
+
+### Prerequisites
+
+- Node.js (v16 or later recommended)
+- npm (comes with Node.js)
+
+### Setup
+
+1. **Clone the repository**
+
+```bash
+   git clone https://github.com/stanfordsilicon/charwash.git
+   cd charwash
+```
+
+2. **Install Dependencies**
+
+```bash
+   npm install
+```
+
+3. **Run in development mode**
+
+```bash
+    npm run dev
+```
+
+This will start a local dev server (usually on http://localhost:5173 if you’re using Vite, or http://localhost:3000 for other setups).
+The terminal will tell you the exact address.
+
+4. **Build for production (optional)**
+
+```bash
+npm run build
+```
+
+This will output an optimized version of the app into the dist/ folder, which you can deploy to any static hosting service (GitHub Pages, Netlify, Vercel, etc.).
+
+## Usage
+
+1. Open the app in your browser.
+
+2. Paste a text segment.
+
+3. Click "Extract Characters."
+
+4. See the list of unique characters displayed.
+
+5. (Optional) Download the unique characters into a file.
+
+## Project Structure
+
+```bash
+charwash/
+├── public/ # Static assets (favicon, images, etc.)
+├── src/ # Application source code
+│ ├── app/ # App-level setup and config
+│ │ ├── App.js
+│ ├── pages/ # Page components (UI screens)
+│ │ ├── About.js
+│ │ └── Home.js
+│ ├── styles/ # CSS / styling files
+│ │ ├── globals.css
+│ ├── utils/ # Utility/helper functions
+│ │ ├── extractChars.js #Main extraction functions
+│ └── index.js # Application entry point
+├── package.json # npm configuration & scripts
+└── LICENSE #MIT License
+└── README.md # Documentation
+```
+
+## Example
+
+Input: Hello, World!
+
+Output: H e l o , W r d !
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## License
 
-In the project directory, you can run:
+[MIT](https://mit-license.org/)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
