@@ -2,9 +2,11 @@
 
 A simple tool for extracting characters from pasted text.
 
-This project includes:
-**Backend**: Handles character extraction logic.
+This project includes:  
+**Backend**: Handles character extraction logic.  
 **Frontend**: A lightweight UI for pasting text, viewing, and optionally downloading extracted characters.
+
+CharWash is a subproject within a larger folder containing the Keyzas program.
 
 ## Features
 
@@ -35,7 +37,7 @@ This project includes:
 
 ```bash
    git clone https://github.com/stanfordsilicon/charwash.git
-   cd charwash
+   cd charwash/charwash
 ```
 
 2. **Install Dependencies**
@@ -99,8 +101,6 @@ charwash/
 Input: Hello, World!
 
 Output: H e l o , W r d !
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## License
 
