@@ -2,7 +2,10 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #fdf6e3; /* soft cream */
+  background-color: #fdf6e3; /* soft cream fallback */
+  background-image: url('/keyzas_icon.png'); /* your blank keys image */
+  background-repeat: repeat; /* tiles the image */
+  background-size: 100px auto; /* size each key image */
   margin: 0;
   padding: 0;
   display: flex;
@@ -15,26 +18,29 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff8e1; /* lighter cream for the panel */
+  background-color: #fff8e1; /* container cream */
   padding: 40px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   max-width: 600px;
   width: 90%;
+  z-index: 1;
+  position: relative;
 }
+
 
 h1 {
   font-size: 3rem;
   font-weight: bold;
   text-align: center;
   margin-bottom: 10px;
-  color: #5c3a21; /* darker brown for Keyzas */
+  color: #000000; /* darker brown for Keyzas */
 }
 
 .instruction {
   font-size: 0.95rem;
-  color: #7a5b42;
-  margin-bottom: 30px;
+  color: #000000;
+  margin-bottom: 20px;
   text-align: center;
 }
 
@@ -112,11 +118,10 @@ textarea {
 }
 
 .results {
-  margin-top: 20px;
+  margin-top: 0px;
   width: 100%;
-  background-color: #fff5e0;
+  background-color: #fff8e1;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: inset 0 0 5px rgba(0,0,0,0.05);
   overflow-x: auto;
 }
