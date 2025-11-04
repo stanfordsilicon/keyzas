@@ -78,7 +78,7 @@ export default function Home() {
             {results.top10ByCoverage?.length > 0 ? (
               <ol style={{ paddingLeft: '20px' }}>
                 {results.top10ByCoverage.map((kb, i) => {
-                  const simulatorSrc = encodeURIComponent(kb.source_file.replace('.ldml', '').toLowerCase());
+                  const simulatorSrc = encodeURIComponent(kb.keyboard_id.toLowerCase());
                   return (
                     <li
                       key={i}
@@ -117,7 +117,7 @@ export default function Home() {
             {results.top10ByOverlap?.length > 0 ? (
               <ol style={{ paddingLeft: '20px' }}>
                 {results.top10ByOverlap.map((kb, i) => {
-                  const simulatorSrc = encodeURIComponent(kb.source_file.replace('.ldml', '').toLowerCase());
+                  const simulatorSrc = encodeURIComponent(kb.keyboard_id.toLowerCase());
                   return (
                     <li
                       key={i}

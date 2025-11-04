@@ -1,0 +1,211 @@
+name,locale,all_characters,character_count,source_file,sub_code
+Ukrainian,uk-UA," !""%()*+-./0123456789:;=?\_ЁЄІЇАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгдежзийклмнопрстуфхцчшщьюяёєіїҐґ№",97,KBDUR.ldml,KBDUR
+Georgian (QWERTY),ka-GE," !""#$%&'()*+-./0123456789:;<=>?@N[\]^_{|}~©«®°»აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶჷჸჹჺ჻ჼ–—“„€₾",99,kbdgeoqw.ldml,kbdgeoqw
+Ol Chiki,sat-Olck, -.᱐᱑᱒᱓᱔᱕᱖᱗᱘᱙ᱚᱛᱜᱝᱞᱟᱠᱡᱢᱣᱤᱥᱦᱧᱨᱩᱪᱫᱬᱭᱮᱯᱰᱱᱲᱳᱴᱵᱶᱷᱸᱹᱺᱻᱼᱽ᱾᱿₹,53,KBDOLCH.ldml,KBDOLCH
+US English Table for IBM Arabic 238_L,en-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,KBDUSA.ldml,KBDUSA
+Sinhala,si-LK," !""$%&'()*+-./0123456789:;=?@\u{DCA}‍ය\u{DCA}‍ර^_ ංඃඅආඇඈඉඊඋඌඍඎඏඐඑඒඓඔඕඖකඛගඝඞඟචඡජඣඤඥඦටඨඩඪණඬතථදධනඳපඵබභමඹයරර\u{DCA}‍ලවශෂසහළළ\u{DD4}ෆ්ාැෑිීුූෘෙේෛොෝෞෟෲෳ෴‍",118,KBDSN1.ldml,KBDSN1
+Azerbaijani Latin,az-Latn-AZ," !""%()*+-./0123456789:;=?@ABCDEFGHIJKLMNOPQRSTUVXYZ\_`abcdefghijklmnopqrstuvxyz~ÇÖÜçöüĞğİıŞşƏə₼№",97,KBDAZEL.ldml,KBDAZEL
+Sorbian Standard,hsb-DE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~§°²³µÄÖÜßäöü€",109,KBDSORS1.ldml,KBDSORS1
+Tatar (Legacy),tt-RU," !""#$%'()*+-./0123456789:;<=>?@[\]_{}ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҐґҒғҖҗҠҡҢңҮүҺһӘәӨө₽№",124,KBDTAT.ldml,KBDTAT
+Azerbaijani Cyrillic,az-Cyrl-AZ," !""%()*+-./0123456789:;=?@\_`|~ЈАБВГДЕЖЗИКЛМНОПРСТУФХЧШЫабвгдежзиклмнопрстуфхчшыјҒғҜҝҮүҸҹҺһӘәӨө₼№",98,KBDAZE.ldml,KBDAZE
+Persian (Standard),fa-IR, !()*+-./:<=>[\]{|}«»×،؛؟ءآأؤإئابةتثجحخدذرریالزسشصضطظعغـفقكلمنهوئًٌٍَُِّْ٪٫٬ٰپچژکگی۰۱۲۳۴۵۶۷۸۹‌‍‎‏,95,kbdfar.ldml,kbdfar
+Sinhala - Wij 9,si-LK," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\u{DCA}‍\u{DCA}‍ය\u{DCA}‍ර]^_`abcdefghijklmnopqrstuvwxyz{|}~¡£¤¥²³¹¼½¾×÷ංඃඅආඇඈඉඊඋඌඍඎඏඐඑඒඓඔඕඖකඛගඝඞඟචඡජඣඤඥඦටඨඩඪණඬතථදධනඳපඵබභමඹයරර\u{DCA}‍ලවශෂසහළළ\u{DD4}ෆ්ාැෑිීුූෘෙේෛොෝෞෟෲෳ෴‌‍‘’€",197,KBDSW09.ldml,KBDSW09
+Georgian (Ergonomic),ka-GE," !""#$%&'()*+-./0123456789:;<=>?@CDILMVX[\]^_`{|}~§«°»აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶჷჸჹჺ჻ჼ—“„€№",104,kbdgeoer.ldml,kbdgeoer
+Tibetan (PRC),bo-CN, -\m{M}\m{m}ༀ༁༂༃༆༇༉༊་༌།༏༐༒༓༕༖༗༘༙༚༛༜༝༞༟༠༡༢༣༤༥༦༧༨༩༪༫༬༭༮༯༰༱༲༳༴༶༸༺༻༼༽༾༿ཀཁགགྷངཅཆཇཉཊཋཌཎཏཐདདྷནཔཕབབྷམཙཚཛཛྷཝཞཟའཡརལཤཥསཧཨཀྵཪཱཱཱིིུུྲྀཷླྀཹེོྂ྆྇ྈྉྊྋྚྛྜྞྵྐྵྻྼ྾྿࿀࿁࿂࿃࿄࿅࿆࿇࿈࿉࿊࿋࿌࿏,142,KBDTIPRC.ldml,KBDTIPRC
+Greek Polytonic,el-GR," !#$%&()*-.0123456789<>@\m{""}\m{'}\m{+}\m{-}\m{/}\m{:}\m{;}\m{=}\m{?}\m{[}\m{\}\m{]}\m{_}\m{`}\m{{}\m{|}\m{}}\m{~}\m{¨}\m{«}\m{¬}\m{»}\m{½}\m{΄}\m{΅}\m{ι}\m{᾿}\m{῁}\m{῝}\m{῞}\m{῟}\m{´}\m{῾}^£¤¥¦§©®°±²³¶·ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρςστυφχψωϚϞϠ€",125,KBDHEPT.ldml,KBDHEPT
+Central Atlas Tamazight,tzm-Latn-DZ," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}]^_abcdefghijklmnopqrstuvwxyz{|}£¤§°²µàçèéù€",109,KBDTZM.ldml,KBDTZM
+Finnish,fi-FI," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÄÅÖäåö€",109,KBDFI.ldml,KBDFI
+Slovak (QWERTY),sk-SK," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]_`abcdefghijklmnopqrstuvwxyz{|}~¤§×ßáäéíô÷úýčĐđľŁłňšťž€",127,KBDSL1.ldml,KBDSL1
+Georgian (MES),ka-GE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`|~§«°»აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶჷჹჺ჻ჼ–—€№",119,kbdgeome.ldml,kbdgeome
+United States-International,en-US," !#$%&()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{""}\m{'}\m{^}\m{`}\m{~}]_abcdefghijklmnopqrstuvwxyz{|}¡¢£¤¥¦§¨©«¬®°²³´µ¶¹»¼½¾¿ÁÄÅÆÇÉÍÐÑÓÖ×ØÚÜÞßáäåæçéíðñóö÷øúüþ‘’€",155,KBDUSX.ldml,KBDUSX
+Swiss French,fr-CH," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}¢£¦§¬°àäçèéöü€",111,KBDSF.ldml,KBDSF
+Armenian Eastern (Legacy),hy-AM, '()-.1349:«»ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ՛՜՝՞աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև,95,kbdarme.ldml,kbdarme
+Turkish Q,tr-TR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£½ÆÇÖÜßæçéöüĞğİıŞş€₺",117,KBDTUQ.ldml,KBDTUQ
+Bulgarian,bg-BG," !""$%()+-./0123456789:;=?§ЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѝ–“„€№",98,KBDBULG.ldml,KBDBULG
+Colemak,en-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{*}\m{^}\m{`}\m{~}\m{¨}\m{¯}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˚}\m{˛}\m{˝}]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¥ª«²³¹º»¿ÁÃÄÅÆÇÉÍÐÑÓÕÖ×ØÚÜÞßáãäåæçéíðñóõö÷øúüþĐđĦħŁłŒœẞ–—‘’“”‹›€",177,KBDCMK.ldml,KBDCMK
+Bangla – INSCRIPT (Legacy),bn-IN, !()-.@ঁংঃঅআইঈউঊঋএঐওঔকক\u{9CD}ষখগঘঙচছজজ\u{9CD}ঞঝঞটঠডঢণতত\u{9CD}রথদধনপফবভমযরর\u{9CD}লশশ\u{9CD}রষসহ়ািীুূৃেৈোৌ্য়০১২৩৪৫৬৭৮৯‌‍₹,85,KBDINBE1.ldml,KBDINBE1
+Urdu,ur-PK," !""#$'()+-/0123456789:<=>@[\]^_`{|}~،؛؟ءآأؤإئابتثجحخدذرزسشصضطظعغـفقلمنويًٌٍَُِّْ٪٭ٹپچڈڑژکگںھہۂۃیےۓ۔ۖۙۢ‌‍‎‏ﻲ",107,KBDURDU.ldml,KBDURDU
+Polish (214),pl-PL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\m{^}\m{¨}\m{°}\m{´}\m{·}\m{¸}\m{ˇ}\m{˘}\m{˛}\m{˝}_`abcdefghijklmnopqrstuvwxyz{}~¤¦§×ßó÷ąćĐđęŁłńśźż€",120,KBDPL.ldml,KBDPL
+Russian,ru-RU," !""%()*+-./0123456789:;=?\_ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё₽№",96,KBDRU.ldml,KBDRU
+Kazakh,kk-KZ," !""()-./:;?\|ІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяіҒғҚқҢңҮүҰұҺһӘәӨө№",97,KBDKAZ.ldml,KBDKAZ
+Uyghur (Legacy),ug-CN," !""#$%&'()*+-.0123456789:<=>@[\]^_`|~«»،؛؟ئابتجخدرزسشغقكللامنوىيپچژڧڭگھۆۇۈۋېە",76,KBDUGHR.ldml,KBDUGHR
+Thai Kedmanee (non-ShiftLock),th-TH," ""%()+-./?_กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮฯะัาำิีึืฺุู฿เแโใไๅๆ็่้๊๋์ํ๐๑๒๓๔๕๖๗๘๙",95,KBDTH2.ldml,KBDTH2
+United Kingdom,en-GB," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~£¦¬ÁÉÍÓÚáéíóú€",109,KBDUK.ldml,KBDUK
+Thai Pattachote (non-ShiftLock),th-TH," ""%()+-./=?_กขคฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮฯะัาำิีึืุู฿เแโใไๆ็่้๊๋์ํ๐๑๒๓๔๕๖๗๘๙",93,KBDTH3.ldml,KBDTH3
+Italian,it-IT," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_abcdefghijklmnopqrstuvwxyz{|}£§°àçèéìòù€",104,KBDIT.ldml,KBDIT
+Ukrainian (Enhanced),uk-UA," !""%'()*+-./0123456789:;=?\_ЄІЇАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгдежзийклмнопрстуфхцчшщьюяєіїҐґ₴№",97,KBDUR1.ldml,KBDUR1
+Osmanya,so-Osma," !""#$%&'()*+-./:;<=>?@[\]^_`{|}~𐒀𐒁𐒂𐒃𐒄𐒅𐒆𐒇𐒈𐒉𐒊𐒋𐒌𐒍𐒎𐒏𐒐𐒑𐒒𐒓𐒔𐒕𐒖𐒗𐒘𐒙𐒚𐒛𐒜𐒝𐒠𐒡𐒢𐒣𐒤𐒥𐒦𐒧𐒨𐒩",73,KBDOSM.ldml,KBDOSM
+Hindi Traditional,hi-IN," !""#$%&'()*+-./0123456789:;<=>?@[\\u{94D}र]^_`{|}~ँंःअआइईउऊऋऍएऐऑओऔकक\u{94D}षखगघङचछजज\u{94D}ञझञटठडढणतत\u{94D}रथदधनपफबभमयरर\u{94D}ऱलळवशश\u{94D}रषसह़ािीुूृॅेैॉोौ्ॐय़।०१२३४५६७८९‌‍₹",130,KBDINHIN.ldml,KBDINHIN
+Uyghur,ug-CN," !""#$%&'()*+-.0123456789:<=>@[\]^_`|~«»،؛؟ئابتجخدرزسشغفقكللامنوىيپچژڭگھۆۇۈۋېە",76,KBDUGHR1.ldml,KBDUGHR1
+Czech,cs-CZ," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]_abcdefghijklmnopqrstuvwxyz{|}~¤§ÁÉÍ×ÚÝßáéí÷úýČčĐđĚěŁłŘřŠšŮůŽž€",136,KBDCZ.ldml,KBDCZ
+Traditional Mongolian (Standard),mn-Mong-CN, %()+-0123456789=[]~·᠁᠂᠃᠄᠊᠋᠌᠍᠎ᠠᠡᠢᠣᠤᠥᠦᠧᠨᠩᠪᠫᠬᠭᠮᠯᠰᠱᠲᠳᠴᠵᠶᠷᠸᠹᠺᠻᠼᠽᠾᠿᡀᡁᡂ‌‍ ⁈⁉〈〉《》︔︕︖︱,78,KBDMONST.ldml,KBDMONST
+United States-Dvorak for left hand,en-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,KBDUSL.ldml,KBDUSL
+Maltese 47-Key,mt-MT," !""$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~£ÀÈÌÒÙàèìòùĊċĠġĦħŻż€",114,KBDMLT47.ldml,KBDMLT47
+Swiss German,de-CH," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}¢£¦§¬°ÀÄÈÉÖÜàäçèéöü€",117,KBDSG.ldml,KBDSG
+Armenian Phonetic,hy-AM," !""#$%&'()*+-./0123456789:;<=>?@[\]^_`{|}~«»ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ՛՜՝՞աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև։—․",129,kbdarmph.ldml,kbdarmph
+Czech Programmers,cs-CZ," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{ˇ}\m{˝}]^_`abcdefghijklmnopqrstuvwxyz{|}~§×ßáéí÷úýčěřšůž€",117,KBDCZ2.ldml,KBDCZ2
+Guarani,gn-PY," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGG\u{303}HIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefgg\u{303}hijklmnopqrstuvwxyz{|}¡¬°¿ÃÑÕãñõĨĩŨũʼẼẽỸỹ₲",119,KBDGN.ldml,KBDGN
+Tifinagh (Basic),tzm-Tfng-MA," !""#$%&'()*+-./0123456789:;<=>?@[\]^_{|}~£¤§°²µ€ⴰⴱⴳⴳⵯⴷⴹⴻⴼⴽⴽⵯⵀⵃⵄⵅⵇⵉⵊⵍⵎⵏⵓⵔⵕⵖⵙⵚⵛⵜⵟⵡⵢⵣⵥⵯ",83,KBDTIFI.ldml,KBDTIFI
+Georgian (Legacy),ka-GE, !%()+-./0123456789:;=?§აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶ–“„№,68,kbdgeo.ldml,kbdgeo
+"Hebrew (Standard, 2018)",he-IL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_{|}~°×÷͏ְֱֲֳִֵֶַָֹֺֻּֽ֫־ֿׁׂ׆אבגדהוזחטיךכלםמןנסעףפץצקרשת׳״‌‍‎‏–‘’‚“”„₪€",134,kbdhebsi.ldml,kbdhebsi
+Macedonian - Standard,mk-MK, !#$%&'()*+-./0123456789:;<=>?@[\]^{|}°́ЀЃЅЈЉЊЌЍЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшѐѓѕјљњќѝџ—‘‚“„…,113,KBDMACST.ldml,KBDMACST
+Osage,osa-Osge," !""#$%&'()*+-./0123456789:;<=>?@[\]^_`{|}~̄͘𐒰𐒳𐒴𐒵𐒷𐒹𐒺𐒻𐒼𐒾𐒿𐓀𐓁𐓂𐓄𐓆𐓇𐓈𐓊𐓍𐓎𐓏𐓐𐓒𐓓𐓘𐓛𐓜𐓝𐓟𐓡𐓢𐓣𐓤𐓦𐓧𐓨𐓩𐓪𐓬𐓮𐓯𐓰𐓲𐓵𐓶𐓷𐓸𐓺𐓻",121,KBDOSA.ldml,KBDOSA
+Italian (142),it-IT," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~£§°àçèéìòù€",106,KBDIT142.ldml,KBDIT142
+Hebrew (Standard),he-IL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_{|}~°×÷͏ְֱֲֳִֵֶַָֹֺֻּֽ֫־ֿׁׂ׆אבגדהוזחטיךכלםמןנסעףפץצקרשתװױײ׳״‌‍‎‏–‘’‚“”„₪€",137,kbdhebl3.ldml,kbdhebl3
+Lisu (Standard),lis-Lisu," !""#$%&()*+-./0123456789<=>?@Q[\]^_`{|}~ʼˍ‐ꓐꓑꓒꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭꓮꓯꓰꓱꓲꓳꓴꓵꓶꓷꓸꓼꓹꓼꓺꓻꓼꓽ꓾꓿",91,kbdlisus.ldml,kbdlisus
+Bulgarian (Latin),bg-BG," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,KBDUS.ldml,KBDUS
+N’Ko,nqo," ""#$%()*+-./:=@[\]_|°×÷،؟߀߁߂߃߄߅߆߇߈߉ߊߋߌߍߎߏߐߑߒߓߔߕߖߗߘߙߚߛߜߝߞߟߠߡߢߣߤߥߦߧߨߩߪ߲߫߬߭߮߯߰߱߳ߴߵ߶߷߸߹ߺ߾߿‹›﴾﴿",90,kbdnko.ldml,kbdnko
+Greek Latin,el-GR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}¡¢£¤¥¦§©«¬®°²³µ¶¹»¼½¾¿ÁÄÅÆÇÉÍÐÑÓÖ×ØÚÜÞßáäåæçéíðñóö÷øúüþ‘’€",155,KBDGKL.ldml,KBDGKL
+Belgian (Period),nl-BE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]^_abcdefghijklmnopqrstuvwxyz{|}£§°²³µàçèéù€",110,KBDBE.ldml,KBDBE
+Latin American,es-MX," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~¡¬°¿Ññ",103,KBDLA.ldml,KBDLA
+Tamil 99,ta-IN," !""#$%&'()*+-./0123456789:;<=>?@[\]^_`{|}~ஃஅஆஇஈஉஊஎஏஐஒஓஔகக\u{BCD}ஷஙசஜஞடணதநனபமயரறலளழவஶஶ\u{BCD}ர\u{BC0}ஷஸஹ்ௐ௳௴௵௶௷௸௹௺",91,KBDTAM99.ldml,KBDTAM99
+Phags-pa,mn-Phag, !%&()+-0123456789=? ᠁᠂᠃᠄᠅ ​‌‍— ⁈⁉、。〈〉《》〔〕ꡀꡁꡂꡃꡄꡅꡆꡇꡈꡉꡊꡋꡌꡍꡎꡏꡐꡑꡒꡓꡔꡕꡖꡗꡘꡙꡚꡛꡜꡝꡞꡟꡠꡡꡢꡣꡤꡥꡦꡧꡨꡩꡪꡫꡬꡭꡮꡯꡰꡱꡲꡳ꡴꡵꡶꡷︀,99,kbdphags.ldml,kbdphags
+United States-Dvorak,en-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,KBDDV.ldml,KBDDV
+Faeroese,fo-FO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÅÆÐØåæðø€",111,KBDFO.ldml,KBDFO
+Canadian Multilingual Standard,en-CA," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{¯}\m{´}\m{·}\m{¸}\m{ˇ}\m{˘}\m{˚}\m{˛}\m{˝}]_abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§©ª«¬­®°±²³µ¶¹º»¼½¾¿ÀÆÇÈÉÐ×ØÙÞßàæçèéð÷øùþĦħıĲĳĸĿŀŁłŉŊŋŒœŦŧ―‘’“”€™Ω⅜⅝⅞←↑→↓♪",187,KBDCAN.ldml,KBDCAN
+Hungarian,hu-HU," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]_`abcdefghijklmnopqrstuvwxyz{|}~¤§ÁÄÉÍÓÖ×ÚÜßáäéíóö÷úüĐđŁłŐőŰű€",134,KBDHU.ldml,KBDHU
+Lithuanian IBM,lt-LT," !""()+-./0123456789:;=?ABCDEFGHIJKLMNOPRSTUVYZ[\]_`abcdefghijklmnoprstuvyz{|}~ĄąČčĖėĘęĮįŠšŪūŲųŽž“”€",100,KBDLT.ldml,KBDLT
+Cherokee Nation,chr-Cher-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ᎠᎡᎢᎣᎣᏏᏲᎤᎥᎦᎧᎨᎩᎪᎫᎬᎭᎮᎯᎰᎱᎲᎳᎴᎵᎶᎷᎸᎹᎺᎻᎼᎽᎾᎿᏀᏁᏂᏃᏄᏅᏆᏇᏈᏉᏊᏋᏌᏍᏎᏏᏐᏑᏒᏓᏔᏕᏖᏗᏘᏙᏚᏛᏜᏝᏞᏟᏠᏡᏢᏣᏣᎳᎩᏤᏥᏦᏧᏨᏩᏩᏙᏪᏫᏬᏭᏮᏯᏰᏱᏲᏳᏴ",183,KBDCHER.ldml,KBDCHER
+Serbian (Cyrillic),sr-Cyrl-CS," !""#$%&()*+-./0123456789:;<=>?\m{'}_`~ЂЅЈЉЊЋЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшђѕјљњћџ€",98,KBDYCC.ldml,KBDYCC
+Kannada,kn-IN, ()-.0123456789\u{CCD}ರ|ಂಃಅಆಇಈಉಊಋಌಎಏಐಒಓಔಕಕ\u{CCD}ಷಖಗಘಙಚಛಜಜ\u{CCD}ಞಝಞಟಠಡಢಣತತ\u{CCD}ರಥದಧನಪಫಬಭಮಯರರ\u{CCD}ಱಲಳವಶಶ\u{CCD}ರಷಸಹಾಿೀುೂೃೄೆೇೈೊೋೌ್ೕೖೞೠೡ೦೧೨೩೪೫೬೭೮೯‌‍₹,106,KBDINKAN.ldml,KBDINKAN
+Hausa,ha-Latn-NG," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¦¶ƁƊƘƙƳƴɓɗ‘’€",108,KBDHAU.ldml,KBDHAU
+Pashto (Afghanistan),ps-AF," !""#$%&'()*+-./:;<=>?@[\]^_`{|}~ «°»×÷؋،؛؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكلمنهوىيًٌٍَُِّْٓٔٙ٪٫٬٭ٰٱٹټپځڅچڈډڑړږژښکګگڷںڼۇۉیۍېے۰۱۲۳۴۵۶۷۸۹‌‍‎‏•€",138,KBDPASH.ldml,KBDPASH
+United States-Dvorak for right hand,en-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,KBDUSR.ldml,KBDUSR
+Canadian French (Legacy),fr-CA," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}\m{¸}]_abcdefghijklmnopqrstuvwxyz{|}¡¢£¤¥§©ª«¬®°±²³µ¶¹º»¼½¾¿ÀÆÇÈÉÐØÙÞßàæçèéðøùþ€",142,KBDFC.ldml,KBDFC
+Scottish Gaelic,en-IE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{'}\m{`}]^_`abcdefghijklmnopqrstuvwxyz{|}~£¦¬ÁÉÍÓÚÝáéíóúý’⁊€",115,KBDGAE.ldml,KBDGAE
+Slovak,sk-SK," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]_`abcdefghijklmnopqrstuvwxyz{|}~¤§×ßáäéíô÷úýčĐđľŁłňšťž€",129,KBDSL.ldml,KBDSL
+Latvian (Standard),lv-LV," !#$%&()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{""}\m{'}\m{¨}\m{´}]^_`abcdefghijklmnopqrstuvwxyz{|}~ §«­°±»×ĀāČčĒēĢģĪīĶķĻļŅņŌōŖŗŠšŪūŽž–—’€",135,KBDLVST.ldml,KBDLVST
+Macedonian,mk-MK, !%&()*+-./0123456789:;=?@[]_`{}~§ЁЂЃЅЈЉЊЋЌЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшёђѓѕјљњћќџ‘’“„€,108,KBDMAC.ldml,KBDMAC
+Vietnamese,vi-VN," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ÂÊÔâêôĂăĐđƠơƯự̀́̃̉₫",115,KBDVNTC.ldml,KBDVNTC
+Punjabi,pa-IN, ()-.0123456789\u{A4D}ਯ\u{A4D}ਰ\u{A4D}ਵ\u{A4D}ਹ।॥ਂਅਆਇਈਉਊਏਐਓਔਕਖਗਘਙਚਛਜਝਞਟਠਡਢਣਤਥਦਧਨਪਫਬਭਮਯਰਲਲ਼ਵਸ਼ਸਹ਼ਾਿੀੁੂੇੈੋੌ੍ਖ਼ਗ਼ਜ਼ੜਫ਼੦੧੨੩੪੫੬੭੮੯ੰੱੲੳੴ‌‍₹,100,KBDINPUN.ldml,KBDINPUN
+Arabic (102) AZERTY,ar-SA," ""&'()+-./0123456789:<=>[\\u{651}ً\u{651}ٌ\u{651}ٍ\u{651}َ\u{651}ُ\u{651}ِ]_{|}~¤°×àçèé÷،؛؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكللآلألإلامنهوىيًٌٍَُِّْ‌‍‎‏‘’",105,KBDA3.ldml,KBDA3
+United Kingdom Extended,cy-GB," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]^_`abcdefghijklmnopqrstuvwxyz{|}~£¦¬ÁÇÉÍÓÚÝáçéíóúýẂẃ€",120,KBDUKX.ldml,KBDUKX
+Divehi Typewriter,dv-MV," !""#$%&()*+-./0123456789:;<=>@[\]^_`{|}~×÷،؛؟ހށނރބޅކއވމފދތލގޏސޑޒޓޔޕޖޗޘޙޚޛޜޝޞޟޠޡޢޣޤޥަާިީުޫެޭޮޯް‌‍‎‏’“ﷲ",102,KBDDIV2.ldml,KBDDIV2
+"French (Standard, AZERTY)",fr-FR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{}\m{-}\m{.}\m{/}\m{^}\m{`}\m{~}\m{¤}\m{¨}\m{¯}\m{°}\m{´}\m{µ}\m{¸}\m{ſ}\m{ˇ}\m{ˍ}\m{˘}\m{˙}\m{˚}\m{˛}\m{˝}\m{˵}]_abcdefghijklmnopqrstuvwxyz{|} ¡£§©«®°±·»¼½¿ÀÆÇÈÉÊ×Ùßàæçèéê÷ùŒœƷʒθϴẞ‑–—‘’“”†‡… ‰‹›€™−√∞≃≠⩽⩾",176,KBDFRNA.ldml,KBDFRNA
+Turkmen,tk-TM," !""#$%&'()*+-./0123456789:;<=>?@ABDEFGHIJKLMNOPRSTUWYZ\_abdefghijklmnoprstuwyz|ÄÇÖÜÝäçöüýŇňŞşŽž№",97,KBDTURME.ldml,KBDTURME
+Assamese - INSCRIPT,as-IN, !()-.@\u{9CD}ৰ।॥ঁংঃঅআইঈউঊঋএঐওঔকক\u{9CD}ষখগঘঙচছজজ\u{9CD}ঞঝঞটঠডঢণতত\u{9CD}ৰথদধনপফবভমযলশশ\u{9CD}ৰষসহ়ািীুূৃেৈোৌ্য়০১২৩৪৫৬৭৮৯ৰৰ\u{9CD}ৱ‌‍₹,89,KBDINASA.ldml,KBDINASA
+Syriac Phonetic,syr-SY, !()+-.0123456789:=[]«»̣̤̥̭̮̰̱̃̄̇̈̊،؛؟ءـًٌٍَُِّْٰٕٓٔ܀܁܂܃܄܅܆܇܈܉܊܋܌܍܏ܐܑܒܓܔܕܖܗܘܙܚܛܜܝܞܟܠܡܢܣܤܥܦܧܨܩܪܫܬܱܴܷܸܹܻܼܾ݂݄݆݈ܰܲܳܵܶܺܽܿ݀݁݃݅݇݉݊‌‍‎‏┌┐♰♱,131,KBDSYR2.ldml,KBDSYR2
+Lithuanian Standard,lt-LT," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ §´ĄąČčĖėĘęĮįŠšŪūŲųŽž–“„€",120,KBDLT2.ldml,KBDLT2
+Bosnian (Cyrillic),bs-Cyrl-BA," !""#$%&()*+-./0123456789:;<=>?@[\\m{'}]^_`{|}~§°ЂЅЈЉЊЋЏАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШабвгдежзиклмнопрстуфхцчшђѕјљњћџ€",108,KBDBHC.ldml,KBDBHC
+Estonian,et-EE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{´}\m{ˇ}]^_abcdefghijklmnopqrstuvwxyz{|}£¤§½ÄÕÖÜäõöüŠšŽž€",115,KBDEST.ldml,KBDEST
+Gujarati,gu-IN, ()-.0123456789\u{ACD}ર।॥ઁંઃઅઆઇઈઉઊઋઍએઐઑઓઔકક\u{ACD}ષખગઘઙચછજજ\u{ACD}ઞઝઞટઠડઢણતત\u{ACD}રથદધનપફબભમયરર\u{ACD}લળવશશ\u{ACD}રષસહ઼ઽાિીુૂૃૄૅેૈૉોૌ્ૐૠ૦૧૨૩૪૫૬૭૮૯‌‍₹,105,KBDINGUJ.ldml,KBDINGUJ
+Wolof,wo-SN," !""#&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}]^_abcdefghijklmnopqrstuvwxyz{|}¤ÀÃÉÑÓàãéñóùŊŋ€",110,KBDWOL.ldml,KBDWOL
+Arabic (102),ar-SA," !""#$%&()*+-./0123456789:<=>@[\\u{651}ً\u{651}ٌ\u{651}ٍ\u{651}َ\u{651}ُ\u{651}ِ]^_{|}~¤×÷،؛؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكللآلألإلامنهوىيًٌٍَُِّْ‌‍‎‏‘’",106,KBDA2.ldml,KBDA2
+Ogham,sga-Ogam, - ᚁᚂᚃᚄᚅᚆᚇᚈᚉᚊᚋᚌᚍᚎᚏᚐᚑᚒᚓᚔᚕᚖᚗᚘᚙᚚ᚛᚜,31,KBDOGHAM.ldml,KBDOGHAM
+Uzbek Cyrillic,uz-Cyrl-UZ," !""%()*-./0123456789:;?\ЁЎАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЪЬЭЮЯабвгдежзийклмнопрстуфхцчшъьэюяёўҒғҚқҲҳ№",96,KBDUZB.ldml,KBDUZB
+Tifinagh (Extended),tzm-Tfng-MA," !""#$%&'()*+-./0123456789:;<=>?@[\]^_{|}~£¤§°²µ‌‍—€ⴰⴱⴲⴳⴳⵯⴴⴵⴶⴷⴸⴹⴺⴻⴼⴽⴽⵯⴾⴿⵀⵁⵂⵃⵄⵅⵆⵇⵈⵉⵊⵋⵌⵍⵎⵏⵐⵑⵒⵓⵔⵕⵖⵗⵘⵙⵚⵛⵜⵝⵞⵟⵠⵡⵢⵣⵤⵥⵯ",109,KBDTIFI2.ldml,KBDTIFI2
+German Extended (E2),de-DE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{¨}\m{¯}\m{´}\m{¸}\m{ʼ}\m{ˀ}\m{ˇ}\m{ˌ}\m{ˍ}\m{ˏ}\m{˗}\m{˘}\m{˙}\m{˚}\m{˛}\m{˜}\m{˝}\m{˟}]_abcdefghijklmnopqrstuvwxyz{|}~ ¡§«­°µ·»¿ÄÖÜßäöüẞ‑–—’ ′″‹›€−☺",143,KBDGRE2.ldml,KBDGRE2
+Igbo,ig-NG," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMM\u{300}M\u{304}NN\u{304}OPQRSTUVWXYZ[\\m{^}\m{`}\m{~}]_abcdefghijklmm\u{300}m\u{304}nn\u{304}opqrstuvwxyz{|}¦´¶ṄṅỊỊ\u{300}Ị\u{301}Ị\u{304}ịị\u{300}ị\u{301}ị\u{304}ỌỌ\u{300}Ọ\u{301}Ọ\u{304}ọọ\u{300}ọ\u{301}ọ\u{304}ỤỤ\u{300}Ụ\u{301}Ụ\u{304}ụụ\u{300}ụ\u{301}ụ\u{304}‘’€",133,KBDIBO.ldml,KBDIBO
+Japanese,ja-JP," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝﾞﾟ",158,KBDJPN.ldml,KBDJPN
+Korean,ko-KR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,KBDKOR.ldml,KBDKOR
+Irish,en-IE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{`}\m{´}]^_`abcdefghijklmnopqrstuvwxyz{|}~£¦¬ÁÉÍÓÚáéíóú€",111,KBDIR.ldml,KBDIR
+Cherokee Phonetic,chr-Cher-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{C}\m{D}\m{G}\m{H}\m{J}\m{K}\m{L}\m{M}\m{N}\m{Q}\m{S}\m{T}\m{W}\m{X}\m{Y}\m{c}\m{d}\m{g}\m{h}\m{j}\m{k}\m{l}\m{m}\m{n}\m{q}\m{s}\m{t}\m{w}\m{x}\m{y}]^_`abcdefghijklmnopqrstuvwxyz{|}~ᎠᎡᎢᎣᎤᎥ",131,KBDCHERP.ldml,KBDCHERP
+German (IBM),de-DE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~§°²³µÄÖÜßäöüẞ€",110,KBDGR1.ldml,KBDGR1
+Tamil,ta-IN, -.0123456789ஃஅஆஇஈஉஊஎஏஐஒஓஔகக\u{BCD}ஷஙசஜஞடணதத\u{BCD}ரநனபமயரறலளழவஶஷஷ\u{BCD}ரஸஸ\u{BCD}ர\u{BC0}ஹாிீுூெேைொோௌ்ௐ௦௧௨௩௪௫௬௭௮௯௰௱௲௳௴௵௶௷௸௹௺‌‍₹,91,KBDINTAM.ldml,KBDINTAM
+Armenian Western (Legacy),hy-AM, '()-.1349:«»ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ՛՜՝՞աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև,95,kbdarmw.ldml,kbdarmw
+Sami Extended Norway,se-NO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}\m{ˇ}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µÁÂÄÅÆÏÕÖØáâäåæïõöøČčĐđŊŋŠšŦŧŽžƷǤǥǦǧǨǩǮǯʒ€",143,KBDSMSNO.ldml,KBDSMSNO
+Sesotho sa Leboa,nso-ZA," !#$%&()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{""}\m{'}\m{^}\m{`}\m{~}]_abcdefghijklmnopqrstuvwxyz{|}¡¢£¤¥¦§¨©«¬®°²³´µ¶¹»¼½¾¿ÁÄÅÆÇÉÍÐÑÓÖ×ØÚÜÞßáäåæçéíðñóö÷øúüþŠš‘’€",157,KBDNSO.ldml,KBDNSO
+Telugu,te-IN, ()-.0123456789\u{C4D}రఁంఃఅఆఇఈఉఊఋఌఎఏఐఒఓఔకక\u{C4D}షఖగఘఙచఛజజ\u{C4D}ఞఝఞటఠడఢణతత\u{C4D}రథదధనపఫబభమయరఱలళవశశ\u{C4D}రషసహాిీుూృౄెేైొోౌ్ౕౖౘౙౠౡ౦౧౨౩౪౫౬౭౮౯‌‍₹,106,KBDINTEL.ldml,KBDINTEL
+Tibetan (PRC) - Updated,bo-CN, -\m{M}\m{m}\u{F71}ི\u{F71}ུ\u{F71}ྀ\u{FB2}ཱ\u{F80}\u{FB3}ཱ\u{F80}ༀ༁༂༃༆༇༉༊་༌།༏༐༒༓༕༖༗༘༙༚༛༜༝༞༟༠༡༢༣༤༥༦༧༨༩༪༫༬༭༮༯༰༱༲༳༴༶༸༺༻༼༽༾༿ཀཁགགྷངཅཆཇཉཊཋཌཎཏཐདདྷནཔཕབབྷམཙཚཛཛྷཝཞཟའཡརལཤཥསཧཨཀྵཪཱིུྲྀླྀེོྂ྆྇ྈྉྊྋྚྛྜྞྵྐྵྻྼ྾྿࿀࿁࿂࿃࿄࿅࿆࿇࿈࿉࿊࿋࿌࿏,143,KBDTIPRD.ldml,KBDTIPRD
+Sorbian Standard (Legacy),hsb-DE," !""#$%&()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{°}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~§«µ»ÄÖÜßäöüŁł‘‚“„€",114,KBDSORST.ldml,KBDSORST
+Tatar,tt-RU," !""#$%'()*+-./0123456789:;<=>?@[\]_{}ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҒғҖҗҠҡҢңҮүҺһӘәӨө₽№",122,KBDTT102.ldml,KBDTT102
+Tajik,tg-Cyrl-TJ," !""%()*./0123456789:;?\ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЧШЪЭЮЯабвгдежзийклмнопрстуфхчшъэюяёҒғҚқҲҳҶҷӢӣӮӯ№",95,KBDTAJIK.ldml,KBDTAJIK
+Azerbaijani (Standard),az-Latn-AZ," !""#%()*+-.0123456789:;=?@ABCDEFGHIJKLMNOPQRSTUVXYZ_abcdefghijklmnopqrstuvxyz~ÇÖÜçöüĞğİıŞşƏə₼№",95,KBDAZST.ldml,KBDAZST
+Armenian Typewriter,hy-AM," !""#$%&'()*+-./0123456789:;<=>?@[\]^_`{|}~«»ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՒՓՔՕՖ՚՛՜՝՞աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆև։֊֏—․",132,kbdarmty.ldml,kbdarmty
+Norwegian,nb-NO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µÅÆØåæø€",108,KBDNO.ldml,KBDNO
+Latvian,lv-LV," !""#$%&()-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{~}\m{¨}\m{°}\m{´}]^_abcdefghijklmnopqrstuvwxyz{|}«­±»Õ×õĀāČčĒēĢģĪīĶķĻļŅņŖŗŠšŪūŽž–—’€",129,KBDLV.ldml,KBDLV
+Swedish,sv-SE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÄÅÖäåö€",109,KBDSW.ldml,KBDSW
+Bangla,bn-IN, ()-.0123456789\u{9CD}র{ঁংঃঅঅ\u{9CD}য\u{9BE}আইঈউঊঋঌএঐওঔকক\u{9CD}রখগঘঙচছজজ\u{9CD}রঝঞটঠডঢণতত\u{9CD}ষথদধনপফবভমযরর\u{9CD}লশশ\u{9CD}রষসহ়ািীুূৃেৈোৌ্ৎৗড়ঢ়য়ৠৡৢৣ০১২৩৪৫৬৭৮৯ৰৱ৴৵৶৷৸৹৺‌‍₹,114,KBDINBEN.ldml,KBDINBEN
+Danish,da-DK," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÅÆØåæø€",109,KBDDA.ldml,KBDDA
+Odia,or-IN, ()-.0123456789\u{B4D}ର।॥ଁଂଃଅଆଇଈଉଊଋଌଏଐଓଔକକ\u{B4D}ଷଖଗଘଙଚଛଜଜ\u{B4D}ଞଝଞଟଠଡଢଣତତ\u{B4D}ରଥଦଧନପଫବଭମଯଯ\u{B3C}ରର\u{B4D}ଲଳଵଶଶ\u{B4D}ରଷସହ଼ଽାିୀୁୂୃୄେୈୋୌ୍ଡ଼ଢ଼ୟୠୡୢୣ୦୧୨୩୪୫୬୭୮୯୰ୱ‌‍₹,110,KBDINORI.ldml,KBDINORI
+Latvian (QWERTY),lv-LV," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{~}\m{¨}\m{°}\m{´}]^_`abcdefghijklmnopqrstuvwxyz{|}~ §«­°±»Õ×õĀāČčĒēĢģĪīĶķĻļŅņŖŗŠšŪūŽž–—’€",137,KBDLV1.ldml,KBDLV1
+German,de-DE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~§°²³µÄÖÜßäöüẞ€",110,KBDGR.ldml,KBDGR
+Syriac,syr-SY, !()+-.0123456789:=[]«»̣̤̥̭̮̰̱̃̄̇̈̊،؛؟ءـًٌٍَُِّْٰٕٓٔ܀܁܂܃܄܅܆܇܈܉܊܋܌܍܏ܐܑܒܓܔܕܖܗܘܙܚܛܜܝܞܟܠܡܢܣܤܥܦܧܨܩܪܫܬܱܴܷܸܹܻܼܾ݂݄݆݈ܰܲܳܵܶܺܽܿ݀݁݃݅݇݉݊‌‍‎‏┌┐♰♱,131,KBDSYR1.ldml,KBDSYR1
+Russian (Typewriter),ru-RU," !""%()+-./0123456789:;=?\_|ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё₽№",96,KBDRU1.ldml,KBDRU1
+Lithuanian,lt-LT," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ĄąČčĖėĘęĮįŠšŪūŲųŽž€",114,KBDLT1.ldml,KBDLT1
+Greek (220) Latin,el-GR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{¨}\m{΄}\m{΅}]_abcdefghijklmnopqrstuvwxyz{|}£¤¦§«¬°±²³¶»½€",109,KBDHELA2.ldml,KBDHELA2
+Bulgarian (Typewriter),bg-BG," !""%()+-./0123456789:;=?V\_`|~§ІАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюя№",97,KBDBU.ldml,KBDBU
+Inuktitut - Nattilik,iu-Cans-CA," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{]}]^_`abcdefghijklmnopqrstuvwxyz{|}~ŁłŊŋŘřŠšᐃᐄᐅᐆᐊᐋᐱᐲᐳᐴᐸᐹᑉᑎᑏᑐᑑᑕᑖᑦᑭᑮᑯᑰᑲᑳᒃᒋᒌᒍᒎᒐᒑᒡᒥᒦᒧᒨᒪᒫᒻᓂᓃᓄᓅᓇᓈᓐᓕᓖᓗᓘᓚᓛᓪᓯᓰᓱᓲᓴᓵᔅᔨᔩᔪᔫᔭᔮᔾᕆᕇᕈᕉᕋᕌᕐᕕᕖᕗᕘᕙᕚᕝᕠᕢᕤᕥᕦᕧᕼᕿᖀᖁᖂᖃᖄᖅᖏᖐᖑᖒᖓᖔᖕᖠᖡᖢᖣᖤᖥᖦᖨᖩᖪᖫᖬᖭᖮᙱᙲᙳᙴᙵᙶ‘’“”•−𑪰𑪱𑪲𑪴𑪵𑪶𑪷𑪸𑪹𑪺𑪻",245,KBDINUK3.ldml,KBDINUK3
+Central Kurdish,ku-Arab-IQ," !""#$&'()*+-./:<=>@[\]^_`{|}~،؛؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكلمنهوووىي٠١٢٣٤٥٦٧٨٩٪پچڕژڤکگڵۆیێە‌‍‎‏",97,KBDKURD.ldml,KBDKURD
+Javanese,jv-Java, !#$%&()*+-/0123456789=?@[\\u{A9BA}ꦴ\u{A9C0}ꦭ\u{A9C0}ꦮ]^_`|~​‌ꦀꦁꦂꦃꦄꦄ\u{A9B4}ꦄ\u{A9BC}ꦅꦆꦇꦈꦉꦊꦋꦌꦍꦎꦏꦐꦑꦒꦓꦔꦕꦖꦗꦘꦙꦚꦛꦜꦝꦞꦟꦠꦡꦢꦣꦤꦥꦦꦧꦨꦩꦪꦫꦬꦭꦮꦯꦰꦱꦲ꦳ꦴꦵꦶꦷꦸꦹꦺꦻꦼꦽꦾꦿ꧀꧁꧂꧃꧄꧅꧆꧇꧈꧉꧊꧋꧌꧍ꧏ꧐꧑꧒꧓꧔꧕꧖꧗꧘꧙꧞꧟,131,KBDJAV.ldml,KBDJAV
+Arabic (101),ar-SA," !""#$%&()*+-./0123456789:<=>@[\]^_{|}~×÷،؛؟ءآأؤإئابةتثجحخدذرزسشصضطظعغـفقكللآلألإلامنهوىيًٌٍَُِّْ‌‍‎‏‘’",99,KBDA1.ldml,KBDA1
+Georgian (Old Alphabets),ka-GE," !""#$%&'()*+-./0123456789:;=>?@[\]^_`{|}~§«°»ႠႡႢႣႤႥႦႧႨႩႪႫႬႭႮႯႰႱႲႳႴႵႶႷႸႹႺႻႼႽႾჀჁჄჳჶჸჹჺ჻ჼ—“„€№ⴀⴁⴂⴃⴄⴅⴆⴇⴈⴉⴊⴋⴌⴍⴎⴏⴐⴑⴒⴓⴔⴕⴖⴗⴘⴙⴚⴛⴜⴝⴞⴟⴠⴡⴢⴤⴥ",129,kbdgeooa.ldml,kbdgeooa
+Mongolian Cyrillic,mn-MN," ""%+-.0123456789:=?\_|ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҮүӨө₮№",95,KBDMON.ldml,KBDMON
+Mongolian (Mongolian Script),mn-Mong-CN, !%()+-.0123456789;=?|~᠁᠂᠃᠄᠊᠋᠌᠍᠎ᠠᠡᠢᠣᠤᠥᠦᠧᠨᠩᠪᠫᠬᠭᠮᠯᠰᠱᠲᠳᠴᠵᠶᠷᠸᠹᠺᠻᠼᠽᠾᠿᡀᡁᡂ‌‍— ⁈⁉〈〉《》〔〕,79,KBDMONMO.ldml,KBDMONMO
+Persian,fa-IR," !""#$%&()*+-./0123456789:<=>@[\]^_{|}«»×÷،؛؟ءآأؤإئابةتثجحخدذرريالزسشصضطظعغـفقلمنهويًٌٍَُِّپچژکگۀہی‌‍‎‏",100,KBDFA.ldml,KBDFA
+Hawaiian,haw-US," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ĀāĒēĪīŌōŪūʻ",106,KBDHAW.ldml,KBDHAW
+German Extended (E1),de-DE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{¨}\m{¯}\m{´}\m{¸}\m{ʼ}\m{ˀ}\m{ˇ}\m{ˌ}\m{ˍ}\m{ˏ}\m{˗}\m{˘}\m{˙}\m{˚}\m{˛}\m{˜}\m{˝}\m{˟}]_abcdefghijklmnopqrstuvwxyz{|}~ ¡§«­°²³µ·»¿ÄÖ×Üßäöüẞ‑–—’ ′″‹›€−☺",146,KBDGRE1.ldml,KBDGRE1
+Tai Le,tdd-Tale, *+-/=[]{}·၀၁၂၃၄၅၆၇၈၉ᥐᥑᥒᥓᥔᥕᥖᥗᥘᥙᥚᥛᥜᥝᥞᥟᥠᥡᥢᥣᥤᥥᥦᥧᥨᥩᥪᥫᥬᥭᥰᥱᥲᥳᥴ—‘’“”…、。《》！＃＄％＆（），：；？＠～,77,KBDTAILE.ldml,KBDTAILE
+Romanian (Programmers),ro-RO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]^_`abcdefghijklmnopqrstuvwxyz{|}~§©«±»ÂÎßâîĂăĐđŁłȘșȚț–”„€",131,KBDROPR.ldml,KBDROPR
+Norwegian with Sami,se-NO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µÁÂÄÅÆÏÕÖØáâäåæïõöøČčĐđŊŋŠšŦŧŽžƷǤǥǦǧǨǩǮǯȞȟʒ€",144,KBDNO1.ldml,KBDNO1
+Traditional Mongolian (MNS),mn-Mong-CN, !#$%()*+-/:<=>?@[]_{}~«»᠀᠁᠂᠃᠅᠊᠋᠌᠍᠎᠏᠐᠑᠒᠓᠔᠕᠖᠗᠘᠙ᠠᠡᠢᠣᠤᠥᠦᠧᠨᠩᠪᠫᠬᠭᠮᠯᠰᠱᠲᠳᠴᠵᠶᠷᠸᠹᠺᠻᠼᠽᠾᠿᡀᡁᡂ‌‍“ ₮,86,KBDMONS2.ldml,KBDMONS2
+Marathi,mr-IN," !""#$%&'()*+-./0123456789:;<=>?@[\\u{94D}र]^_`{|}~ँंःअआइईउऊऋऍएऐऑओऔकक\u{94D}षखगघङचछजज\u{94D}ञझञटठडढणतत\u{94D}रथदधनपफबभमयरर\u{94D}ऱलळवशश\u{94D}रषसह़ऽािीुूृॅेैॉोौ्ॐय़।०१२३४५६७८९‌‍₹",131,KBDINMAR.ldml,KBDINMAR
+Lisu (Basic),lis-Lisu," !""#$%&()*+-./0123456789<>?@Q[\]^_`{|}~ʼˍ‐ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓪꓫꓬꓭꓮꓯꓰꓱꓲꓳꓴꓵꓶꓷꓸꓼꓹꓼꓺꓻꓼꓽ꓾꓿",91,kbdlisub.ldml,kbdlisub
+Hungarian 101-key,hu-HU," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¤§°´ÁÄÉÍÓÖ×ÚÜßáäéíóö÷úüĐđŁłŐőŰűˇ˘˙˛˝€",132,KBDHU1.ldml,KBDHU1
+Hebrew,he-IL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_{|}~ְֱֲֳִֵֶַָֹֻּֿׁׂאבגדהוזחטיךכלםמןנסעףפץצקרשתװױײ‎‏₪€",117,KBDHEB.ldml,KBDHEB
+Slovenian,sl-SI," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]_`abcdefghijklmnopqrstuvwxyz{|}~¤§×ß÷ĆćČčĐđŁłŠšŽž€",122,KBDCR.ldml,KBDCR
+Inuktitut - Naqittaut,iu-Cans-CA," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{]}]^_`abcdefghijklmnopqrstuvwxyz{|}~¢©®¼½¾÷Łłŋᐃᐄᐅᐆᐊᐋᐱᐲᐳᐴᐸᐹᑉᑎᑏᑐᑑᑕᑖᑦᑭᑮᑯᑰᑲᑳᒃᒋᒌᒍᒎᒐᒑᒡᒥᒦᒧᒨᒪᒫᒻᓂᓃᓄᓅᓇᓈᓐᓕᓖᓗᓘᓚᓛᓪᓯᓰᓱᓲᓴᓵᔅᔨᔩᔪᔫᔭᔮᔾᕆᕇᕈᕉᕋᕌᕐᕕᕖᕗᕘᕙᕚᕝᕼᕿᖀᖁᖂᖃᖄᖅᖏᖐᖑᖒᖓᖔᖕᖠᖡᖢᖣᖤᖥᖦᙱᙲᙳᙴᙵᙶ‘’“”•⅔−",224,KBDINUK2.ldml,KBDINUK2
+Khmer,km-KH, !#$%&()*+-./0123456789:;<=>?@[\\u{17B6}ំ\u{17BB}ំ\u{17BB}ះ\u{17C1}ះ\u{17C4}ះ]_{}£¥«­฿កខគឃងចឆជឈញដឋឌឍណតថទធនបផពភមយរលវឝឞសហឡអឥឦឧឩឪឫឬឭឮឯឰឱឳាិីឹឺុូួើឿៀេែៃោៅំះៈ៉៊់៌៍៎៏័៑្។៕៖ៗ៙៚៛៝០១២៣៤៥៦៧៨៩៰៱៲៳៴៵៶៷៸៹᧠᧡᧢᧣᧤᧥᧦᧧᧨᧩᧪᧫᧬᧭᧮᧯᧰᧱᧲᧳᧴᧵᧶᧷᧸᧹᧺᧻᧼᧽᧾᧿​‌‍—’”•‹›₣₫€₭,197,KBDKHMR.ldml,KBDKHMR
+Divehi Phonetic,dv-MV," !""#$%&'()*+-./0123456789:;<=>@[\]^_`{|}~×÷،؛؟ހށނރބޅކއވމފދތލގޏސޑޒޓޔޕޖޗޘޙޚޛޜޝޞޟޠޡޢޣޤޥަާިީުޫެޭޮޯް‌‍‎‏ﷲ",101,KBDDIV1.ldml,KBDDIV1
+Belgian (Comma),fr-BE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]^_abcdefghijklmnopqrstuvwxyz{|}£§°²³µàçèéù€",110,KBDBENE.ldml,KBDBENE
+Greenlandic,kl-GL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÅÆÐØÞßåæðøþĸ€",115,KBDGRLND.ldml,KBDGRLND
+Greek (319) Latin,el-GR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}€",98,KBDHELA3.ldml,KBDHELA3
+Serbian (Latin),sr-Latn-CS," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}\m{‚}]_`abcdefghijklmnopqrstuvwxyz{|}~¤§×ß÷ĆćČčĐđŁłŠšŽž€",123,KBDYCL.ldml,KBDYCL
+"French (Standard, BÉPO)",fr-FR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{}\m{-}\m{.}\m{/}\m{^}\m{`}\m{~}\m{¤}\m{¨}\m{¯}\m{´}\m{µ}\m{¸}\m{ß}\m{ˇ}\m{˘}\m{˙}\m{˚}\m{˛}\m{ᵉ}\m{∞}]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡£§©«®°±¶·»¼½¾¿ÀÆÇÈÉÊ×Ùàæçèéê÷ùŒœſ‑–—‘’“”„†‡… ‰′″€™−≠⩽⩾",172,KBDFRNB.ldml,KBDFRNB
+Spanish Variation,es-ES," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~¡£§ª¬±·¼½¿ÇÑ×çñ÷₧€",116,KBDES.ldml,KBDES
+Greek (220),el-GR," !""#$%&'()*+-./0123456789:;<=>?@[\m{¨}\m{΄}\m{΅}]_{}~£¤¥¦§©«¬®°±²³¶»½;ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρςστυφχψω€",109,KBDHE220.ldml,KBDHE220
+Polish (Programmers),pl-PL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{~}]^_`abcdefghijklmnopqrstuvwxyz{|}ÓóĄąĆćĘęŁłŃńŚśŹźŻż€",114,KBDPL1.ldml,KBDPL1
+Romanian (Standard),ro-RO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]^_`abcdefghijklmnopqrstuvwxyz{|}~§©«±»ÂÎßâîĂăĐđŁłȘșȚț–”„€",131,KBDROST.ldml,KBDROST
+Dzongkha,dz-BT," ""'()*+-./0123456789:;=?\ ༁༃༄༅༆༈༉༊་༌།༎༏༑༒༓༔༗༘༙༚༛༜༝༞༟༠༡༢༣༤༥༦༧༨༩༴༵༶༷༸༹༺༻༼༽༾༿ཀཁགངཅཆཇཉཊཋཌཎཏཐདནཔཕབམཙཚཛཝཞཟའཡརལཤཥསཧཨཪཱིེཻོཽུཾཿ྄ྀྂྃ྅྆྇ྈྉྊྋ\u{F99}ྌྍྎྏྐྑྒྔྕྖྗྙྚྛྜྞྟྠྡྣྤྥྦྨྩྪྫྭྮྯྰྱྲླྴྵྶྷྸྺྻྼ྾྿࿐࿑࿒࿓࿔࿙࿚",182,KBDDZO.ldml,KBDDZO
+Myanmar (Visual order),my," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ကခဂဃငစဆဇဈဉညဋဌဍဎဏတထဒဓနပဖဗဘမယရလဝသဟဠအဣဤဥဦဧဩဪါာိီုူေဲံ့း္်ျြွှဿ၀၁၂၃၄၅၆၇၈၉၊။၌၍၎၏ၐၑၒၓၔၕ",176,KBDMYAN.ldml,KBDMYAN
+Dutch,nl-NL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}\m{¸}]_abcdefghijklmnopqrstuvwxyz{|}¢£¦§«¬°±²³µ¶·¹»¼½¾ß€",118,KBDNE.ldml,KBDNE
+Albanian,sq-AL," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{¸}\m{ˇ}\m{˘}\m{˙}\m{˛}\m{˝}]^_`abcdefghijklmnopqrstuvwxyz{|}~¤§ÇË×ßçë÷ĐđŁł",118,KBDAL.ldml,KBDAL
+"French (Legacy, AZERTY)",fr-FR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}]^_abcdefghijklmnopqrstuvwxyz{|}£¤§°²µàçèéù€",109,KBDFR.ldml,KBDFR
+Maltese 48-Key,mt-MT," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~£¬ÀÈÌÒÙàèìòùĊċĠġĦħŻż€",116,KBDMLT48.ldml,KBDMLT48
+Sorbian Extended,hsb-DE," !""#$%&()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{°}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~§«»ÄÖÜßäöüŁł–‘‚“„€",114,KBDSOREX.ldml,KBDSOREX
+Old Italic,ett-Ital, -:·⁝𐌀𐌁𐌂𐌃𐌄𐌅𐌆𐌇𐌈𐌉𐌊𐌋𐌌𐌍𐌎𐌏𐌐𐌑𐌒𐌓𐌔𐌕𐌖𐌗𐌘𐌙𐌚𐌛𐌜𐌝𐌞𐌠𐌡𐌢𐌣,40,KBDOLDIT.ldml,KBDOLDIT
+Belarusian,be-BY," !""%'()*+-./0123456789:;=?\_ЁІЎАБВГДЕЖЗЙКЛМНОПРСТУФХЦЧШЫЬЭЮЯабвгдежзйклмнопрстуфхцчшыьэюяёіў№",94,KBDBLR.ldml,KBDBLR
+Bashkir,ba-RU," !""%()-.:;?АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяҒғҘҙҠҡҢңҪҫҮүҺһӘәӨө₽№",96,KBDBASH.ldml,KBDBASH
+Thai Kedmanee,th-TH," ""%()+-./?_กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮฯะัาำิีึืฺุู฿เแโใไๅๆ็่้๊๋์ํ๐๑๒๓๔๕๖๗๘๙",95,KBDTH0.ldml,KBDTH0
+Sora,srb-Sora," !""#$%&'()*+-./:;<=>?@[\]^_`{|}~₹𑃐𑃑𑃒𑃓𑃔𑃕𑃖𑃗𑃘𑃙𑃚𑃛𑃜𑃝𑃞𑃟𑃠𑃡𑃢𑃣𑃤𑃥𑃦𑃧𑃨𑃰𑃱𑃲𑃳𑃴𑃵𑃶𑃷𑃸𑃹",69,KBDSORA.ldml,KBDSORA
+Lao,lo-LA," !""$%'()*+-./0123456789:;=?\\u{EB1}້\u{EB4}້\u{EB5}້\u{EB6}້\u{EB7}້\u{EBB}້\u{ECD}່_xກຂຄງຈຊຍດຕຖທນບປຜຝພຟມຢຣລວສຫຫ\u{EBC}ອຮຯະັາຳິີຶືຸູົຼຽເແໂໃໄໆ່້໊໋໌ໍ໐໑໒໓໔໕໖໗໘໙ໜໝ​₭",106,KBDLAO.ldml,KBDLAO
+Yoruba,yo-NG," !""#$%&()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\m{'}\m{[}\m{\}]^_`abcdefghijklmnopqrstuvwxyz{|}~¦¨¶Ẹ\u{300}Ẹ\u{301}ẹ\u{300}ẹ\u{301}Ọ\u{300}Ọ\u{301}ọ\u{300}ọ\u{301}‘’€",110,KBDYBA.ldml,KBDYBA
+Greek (319),el-GR," !""$%'()*+-./0123456789:;=[\m{¨}\m{΄}\m{΅}]_£¦§©«¬°±²³·»½ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρςστυφχψω―‘’€",99,KBDHE319.ldml,KBDHE319
+Kyrgyz Cyrillic,ky-KG," !""%()*+-./0123456789:;=?\_ЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяёҢңҮүӨө⃀№",102,KBDKYR.ldml,KBDKYR
+Buginese,bug-Bugi," !""#$%&'()*+-./0123456789:;=?@[\]^_{|}~ᨀᨁᨂᨃᨄᨅᨆᨇᨈᨉᨊᨋᨌᨍᨎᨏᨐᨑᨒᨓᨔᨕᨕ\u{1A17}‍ᨐᨖᨘᨗᨙᨚᨛ᨞᨟ꧏ",72,KBDBUG.ldml,KBDBUG
+Turkish F,tr-TR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}¡¢£¤¥¦§©ª«¬­®²³µ¶¹º»¼½¾¿ÆÇÖ×ØÜßæçö÷øüĞğİıŞş€₺",142,KBDTUF.ldml,KBDTUF
+Malayalam,ml-IN, ()-.0123456789\u{D4D}രംഃഅആഇഈഉഊഋഌഎഏഐഒഓഔകക\u{D4D}ഷഖഗഘങചഛജഝഞടഠഡഢണതഥദധനപഫബഭമയരറലളഴവശഷസഹാിീുൂൃെേൈൊോൌ്ൗൠൡ൦൧൨൩൪൫൬൭൮൯൰൱൲൹ൺൻർൽൾൿ‌‍₹,109,KBDINMAL.ldml,KBDINMAL
+Czech (QWERTY),cs-CZ," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{ˇ}\m{˝}]^_`abcdefghijklmnopqrstuvwxyz{|}~¤§ÁÉÍ×ÚÝßáéí÷úýČčĚěŘřŠšŮůŽž€",129,KBDCZ1.ldml,KBDCZ1
+Bulgarian (Phonetic),bg-BG," !""$%'()*+-./0123456789:;=?@§ЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЬЮЯабвгдежзийклмнопрстуфхцчшщъьюяѝ–“„€№",97,KBDBGPH.ldml,KBDBGPH
+Sakha,sah-RU," !""()+-./:;=?\_АБВГДДьЕЖЗИЙКЛМННьОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгддьежзийклмнньопрстуфхцчшщъыьэюяҔҕҤҥҮүҺһӨө₽№",96,KBDYAK.ldml,KBDYAK
+Gothic,got-Goth," !""#$%&'()*+-./0123456789:;<=>@[\\u{331}̄]^_~·̅𐌰𐌱𐌲𐌳𐌴𐌵𐌶𐌷𐌸𐌹𐌹\u{308}𐌺𐌻𐌼𐌽𐌾𐌿𐍀𐍁𐍂𐍃𐍄𐍅𐍆𐍇𐍈𐍉𐍊",69,KBDGTHC.ldml,KBDGTHC
+NZ Aotearoa,en-NZ," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{`}]^_abcdefghijklmnopqrstuvwxyz{|}~",95,KBDMAORI.ldml,KBDMAORI
+Sami Extended Finland-Sweden,se-SE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}\m{ˇ}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÁÂÄÅÆÏÕÖØáâäåæïõöøČčĐđŊŋŠšŦŧŽžƷǤǥǦǧǨǩǮǯʒ€",144,KBDSMSFI.ldml,KBDSMSFI
+Bulgarian (Phonetic Traditional),bg-BG," !""$%'()*+-./0123456789:;<=>?@_§ЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъьюяѝ€№",99,KBDBGPH1.ldml,KBDBGPH1
+Icelandic,is-IS," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{¨}\m{°}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}~°µÆÐÖÞæðöþ€",109,KBDIC.ldml,KBDIC
+Greek,el-GR," !""#$%&'()*+-./0123456789:;<=>?@[\\m{¨}\m{΄}\m{΅}]^_`{|}~£¤¥¦§©«¬®°±²³¶»½ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρςστυφχψω€",112,KBDHE.ldml,KBDHE
+Tamil Anjal,ta-IN," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLL\u{325}MNOPQRR\u{325}STUVWXYZ[\\m{""}\m{'}\m{}\m{-}\m{.}\m{/}\m{<}\m{`}\m{~}\m{ˆ}\m{ˍ}\m{˘}]^_`abcdefghijkll\u{325}mnopqrr\u{325}stuvwxyz{|}~§ÆÑæñĀāĒēĪīŌōŚśŪūḌḍḤḥṀṁṄṅṆṇṢṣṬṭ–—₹",145,KBDINEN.ldml,KBDINEN
+Finnish with Sami,se-SE," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£¤§µ½ÁÂÄÅÆÏÕÖØáâäåæïõöøČčĐđŊŋŠšŦŧŽžƷǤǥǦǧǨǩǮǯȞȟʒ€",145,KBDFI1.ldml,KBDFI1
+Spanish,es-ES," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}¡ª¬·º¿ÇÑçñ€",108,KBDSP.ldml,KBDSP
+Bangla – INSCRIPT,bn-IN, !()-.@\u{9CD}র।॥ঁংঃঅঅ\u{9CD}য\u{9BE}আইঈউঊঋএঐওঔকক\u{9CD}ষখগঘঙচছজজ\u{9CD}ঞঝঞটঠডঢণতত\u{9CD}রথদধনপফবভমযরর\u{9CD}লশশ\u{9CD}রষসহ়ািীুূৃেৈোৌ্ৎয়০১২৩৪৫৬৭৮৯‌‍₹,90,KBDINBE2.ldml,KBDINBE2
+Nepali,ne-NP," !""#$%&'()*+-.0123456789=?@\u{94D}र^ँंःअआइईउऊऋएऐओऔकक\u{94D}क\u{94D}षखख\u{94D}गग\u{94D}घङचच\u{94D}छजज\u{94D}ज\u{94D}ञझञञ\u{94D}टठडढणतत\u{94D}त\u{94D}रथथ\u{94D}दद\u{94D}धध\u{94D}नन\u{94D}पप\u{94D}फबब\u{94D}भभ\u{94D}मम\u{94D}यरर\u{942}र\u{94D}लल\u{94D}वव\u{94D}शश\u{94D}श\u{94D}रषसस\u{94D}हह\u{94D}ािीुूृेैोौ्।०१२३४५६७८९",125,KBDNEPR.ldml,KBDNEPR
+Portuguese,pt-PT," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}£§ª«º»Çç€",106,KBDPO.ldml,KBDPO
+Inuktitut - Latin,iu-Latn-CA," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~¢©®¼½¾÷ŁłŊŋᐃᐄᐅᐆᐊᐋᐞᐱᐲᐳᐴᐸᐹᑉᑎᑏᑐᑑᑕᑖᑦᑭᑮᑯᑰᑲᑳᒃᒋᒌᒍᒎᒐᒑᒡᒥᒦᒧᒨᒪᒫᒻᓂᓃᓄᓅᓇᓈᓐᓕᓖᓗᓘᓚᓛᓪᓯᓰᓱᓲᓴᓵᔅᔨᔩᔪᔫᔭᔮᔾᕆᕇᕈᕉᕋᕌᕐᕕᕖᕗᕘᕙᕚᕝᕼᕿᖀᖁᖂᖃᖄᖅᖏᖐᖑᖒᖓᖔᖕᖖᖠᖡᖢᖣᖤᖥᖦᙱᙲᙳᙴᙵᙶ‘’“”•⅔−",226,KBDIULAT.ldml,KBDIULAT
+Thai Pattachote,th-TH," ""%()+-./=?_กขคฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮฯะัาำิีึืุู฿เแโใไๆ็่้๊๋์ํ๐๑๒๓๔๕๖๗๘๙",93,KBDTH1.ldml,KBDTH1
+Romanian (Legacy),ro-RO," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{¨}\m{°}\m{´}\m{·}\m{¸}\m{ˇ}\m{˘}\m{˛}\m{˝}]_`abcdefghijklmnopqrstuvwxyz{|}~¤§ÂÎ×ßâî÷ĂăĐđŁłŞşŢţ",123,KBDRO.ldml,KBDRO
+ADLaM,ff-Adlm," !""#$%&'()*+-./:<=>@[\\m{`}]^_{}~«»؟⁏⸨⸩⹁𞤀𞤁𞤂𞤃𞤄𞤅𞤆𞤇𞤈𞤉𞤊𞤋𞤌𞤍𞤎𞤏𞤐𞤑𞤒𞤓𞤔𞤕𞤖𞤗𞤘𞤙𞤚𞤛𞤢𞤣𞤤𞤥𞤦𞤧𞤨𞤩𞤪𞤫𞤬𞤭𞤮𞤯𞤰𞤱𞤲𞤳𞤴𞤵𞤶𞤷𞤸𞤹𞤺𞤻𞤼𞤽𞥋𞥐𞥑𞥒𞥓𞥔𞥕𞥖𞥗𞥘𞥙",124,KBDADLM.ldml,KBDADLM
+Khmer (NIDA),km-KH," !""$%()*-./=?@\\u{17B6}ំ\u{17BB}ំ\u{17BB}ះ\u{17C1}ះ\u{17C4}ះ{} «»×កខគឃងចឆជឈញដឋឌឍណតថទធនបផពភមយរលវសហឡអឥឦឧឩឪឫឬឭឮឯឰឱឲឳាិីឹឺុូួើឿៀេែៃោៅំះៈ៉៊់៌៍៎៏័៑្។៕៖ៗ៙៚៛០១២៣៤៥៦៧៨៩​‌‍€",124,KBDKNI.ldml,KBDKNI
+New Tai Lue,khb-Talu, *+-/=[]{|}ᦀᦁᦂᦃᦄᦅᦆᦇᦈᦉᦊᦋᦌᦍᦎᦏᦐᦑᦒᦓᦔᦕᦖᦗᦘᦙᦚᦛᦜᦝᦞᦟᦠᦡᦢᦣᦤᦥᦦᦧᦨᦩᦪᦫᦰᦱᦲᦳᦴᦵᦶᦷᦸᦹᦺᦻᦼᦽᦾᦿᧀᧁᧂᧃᧄᧅᧆᧇᧈᧉ᧐᧑᧒᧓᧔᧕᧖᧗᧘᧙᧚᧞᧟—’‘“”…、。《》！＃＄％＆（），：；？＠～,115,KBDNTL.ldml,KBDNTL
+Canadian French,en-CA," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{¨}\m{´}\m{¸}]_abcdefghijklmnopqrstuvwxyz{|}~¢£¤¦§«¬­¯°±²³µ¶»¼½¾Éé€",120,KBDCA.ldml,KBDCA
+Futhark,gem-Runr, -0\m{\}\m{|}ᚠᚢᚦᚨᚬᚱᚲᚴᚷᚹᚺᚻᚼᚾᛁᛃᛅᛇᛈᛉᛊᛋᛏᛒᛖᛗᛘᛚᛜᛝᛞᛟᛦ᛫᛬᛭ᛮᛯᛰ,44,KBDFTHRK.ldml,KBDFTHRK
+Devanagari - INSCRIPT,hi-IN, ()-.0123456789\u{94D}रँंःअआइईउऊऋऌऍऎएऐऑऒओऔकक\u{94D}षखगघङचछजज\u{94D}ञझञटठडढणतत\u{94D}रथदधनऩपफबभमयरर\u{94D}ऱलळऴवशश\u{94D}रषसह़ऽािीुूृॄॅॆेैॉॊोौ्ॐ॒॑॓॔क़ख़ग़ज़ड़ढ़फ़य़ॠॡॢॣ।॥०१२३४५६७८९॰‌‍₹,129,KBDINDEV.ldml,KBDINDEV
+Portuguese (Brazil ABNT2),pt-BR," !""#$%&'()*+-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\m{^}\m{`}\m{~}\m{¨}\m{´}]_abcdefghijklmnopqrstuvwxyz{|}¢£§ª¬°²³¹ºÇç₢",110,KBDBR.ldml,KBDBR
+Russian - Mnemonic,ru-RU," !""%()*+-./0123456789:;<=>?[\\m{¨}\m{Й}\m{С}\m{Ц}\m{Ы}\m{й}\m{с}\m{ц}\m{ы}]_{}АБВГДЕЖЗИКЛМНОПРТУФХШЪЬЯабвгдежзиклмнопртуфхшъья’₽№",94,KBDRUM.ldml,KBDRUM
+devanagari,unknown, ॅ ॉँंअआइईउऊऋऍऎएऐऑऒओऔकखगघङचछजझञटठडढणतथदधनऩपफबभमयरऱलळऴवशषसह़ािीुूृॆेैॊोौ्य़।,73,devanagari.json,devanagari
+arabic,unknown,ءؤئابةتثجحخدذرزسشصضطعغفقكللامنهوىي٠١٢٣٤٥٦٧٨٩,43,arabic.json,arabic
+chinese,unknown,一中人十卜口土大女尸山廿弓心戈手日木水火田竹金難Ｚ,25,chinese.json,chinese
+katakana,unknown,、。「」゛゜ァアィイゥウェエォオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモャヤュユョヨラリルレロワヲン・ーﾂ,63,katakana.json,katakana
+hiragana,unknown,、。「」ぁあぃいぅうぇえぉおかきくけこさしすせそたちっつてとなにぬねのはひふへほまみむめもゃやゅゆょよらりるれろわをん゛゜・ー,63,hiragana.json,hiragana
+cyrillic,unknown,АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ,32,cyrillic.json,cyrillic
+hangul,unknown,ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎㅏㅐㅑㅒㅓㅔㅕㅖㅗㅛㅜㅠㅡㅣ,33,hangul.json,hangul
+English QWERTY,en," !""#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~",95,english_qwerty.json,english_qwerty

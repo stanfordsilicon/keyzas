@@ -1,4 +1,3 @@
-// src/utils/analyzeKeyboardFromText.js
 import fs from 'fs';
 import path from 'path';
 import csv from 'csv-parser';
@@ -19,14 +18,18 @@ export function isCyrillic(char) {
 }
 
 /**
- * Extract unique non-Cyrillic characters from a string
+ * Extract unique non-Cyrillic, printable characters from a string
  */
 export function extractUniqueCharacters(text) {
   const normalized = text.normalize('NFC');
   const uniqueSet = new Set();
 
   for (const char of normalized) {
-    if (!isCyrillic(char)) uniqueSet.add(char);
+    const code = char.charCodeAt(0);
+    // ignore Cyrillic and control/non-printable characters (U+0000–U+001F, U+007F)
+    if (!isCyrillic(char) && code >= 32 && code !== 127) {
+      uniqueSet.add(char);
+    }
   }
 
   return Array.from(uniqueSet).sort((a, b) => a.charCodeAt(0) - b.charCodeAt(0));
@@ -38,7 +41,7 @@ export function extractUniqueCharacters(text) {
 export function loadAllKeyboards() {
   return new Promise((resolve) => {
     const keyboards = [];
-    const keyboardFile = path.join(process.cwd(), 'keyboard_metadata.csv');
+    const keyboardFile = path.join(process.cwd(), 'keyboard_metadata_new.csv');
 
     if (!fs.existsSync(keyboardFile)) {
       console.error(`Keyboard metadata file not found: ${keyboardFile}`);
@@ -50,11 +53,11 @@ export function loadAllKeyboards() {
       .pipe(csv())
       .on('data', (row) => {
         keyboards.push({
-          id: row['id'],
+          id: row['sub_code'], 
           name: row['name'],
           locale: row['locale'],
           source_file: row['source_file'],
-          all_characters: row['all_characters'],
+          all_characters: row['all_characters'] || '',
         });
       })
       .on('end', () => resolve(keyboards))
@@ -69,18 +72,22 @@ export function loadAllKeyboards() {
  * Compare a set of language characters against a keyboard definition
  */
 function analyzeKeyboardMatch(languageChars, keyboard) {
-  const keyboardChars = new Set();
-  if (keyboard.all_characters) {
-    keyboard.all_characters
-      .split(',')
-      .map(c => c.trim())
-      .filter(Boolean)
-      .forEach(c => keyboardChars.add(c));
-  }
+  // Treat each character in all_characters as a single character
+  const keyboardChars = new Set(keyboard.all_characters ? [...keyboard.all_characters] : []);
 
   const overlap = new Set([...languageChars].filter(c => keyboardChars.has(c)));
   const missing = new Set([...languageChars].filter(c => !keyboardChars.has(c)));
   const excess = new Set([...keyboardChars].filter(c => !languageChars.has(c)));
+
+  // Log missing characters line by line
+  if (missing.size > 0) {
+    console.log(`\nCharacters missing for keyboard "${keyboard.name}" (${missing.size}):`);
+    [...missing].sort().forEach((char, i) => {
+      console.log(`${i + 1}. ${char === ' ' ? '[space]' : char}`);
+    });
+  } else {
+    console.log(`\nCharacters missing for keyboard "${keyboard.name}": [none]`);
+  }
 
   return {
     keyboard_id: keyboard.id,
@@ -94,9 +101,9 @@ function analyzeKeyboardMatch(languageChars, keyboard) {
     excess_count: excess.size,
     coverage_percentage: languageChars.size ? (overlap.size / languageChars.size) * 100 : 0,
     overlap_percentage: keyboardChars.size ? (overlap.size / keyboardChars.size) * 100 : 0,
-    overlap_chars: [...overlap].sort().join(','),
-    missing_chars: [...missing].sort().join(','),
-    excess_chars: [...excess].sort().join(','),
+    overlap_chars: [...overlap].sort().join(''),
+    missing_chars: [...missing].sort().join(''),
+    excess_chars: [...excess].sort().join(''),
   };
 }
 
