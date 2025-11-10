@@ -79,15 +79,6 @@ function analyzeKeyboardMatch(languageChars, keyboard) {
   const missing = new Set([...languageChars].filter(c => !keyboardChars.has(c)));
   const excess = new Set([...keyboardChars].filter(c => !languageChars.has(c)));
 
-  // Log missing characters line by line
-  if (missing.size > 0) {
-    console.log(`\nCharacters missing for keyboard "${keyboard.name}" (${missing.size}):`);
-    [...missing].sort().forEach((char, i) => {
-      console.log(`${i + 1}. ${char === ' ' ? '[space]' : char}`);
-    });
-  } else {
-    console.log(`\nCharacters missing for keyboard "${keyboard.name}": [none]`);
-  }
 
   return {
     keyboard_id: keyboard.id,
@@ -124,12 +115,20 @@ export async function analyzeText(text) {
 
   const results = keyboards.map(kb => analyzeKeyboardMatch(languageChars, kb));
 
+ 
   const coverageSorted = [...results].sort(
     (a, b) => b.coverage_percentage - a.coverage_percentage || b.overlap_percentage - a.overlap_percentage
   );
   const overlapSorted = [...results].sort(
     (a, b) => b.overlap_percentage - a.overlap_percentage || b.coverage_percentage - a.coverage_percentage
   );
+
+  // Log missing characters for top keyboards
+  coverageSorted.slice(0, 10).forEach(kb => {
+    if (kb.missing_count > 0) {
+      console.log(`Keyboard ${kb.keyboard_id} is missing characters: ${kb.missing_chars}`);
+    }
+  });
 
   return {
     top10ByCoverage: coverageSorted.slice(0, 10),

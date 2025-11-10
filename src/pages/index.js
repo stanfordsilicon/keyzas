@@ -73,47 +73,8 @@ export default function Home() {
       {results && (
         <>
           <div className="results">
-            {/* Top Keyboards by Coverage */}
-            <h2>Top Keyboards by Coverage</h2>
-            {results.top10ByCoverage?.length > 0 ? (
-              <ol style={{ paddingLeft: '20px' }}>
-                {results.top10ByCoverage.map((kb, i) => {
-                  const simulatorSrc = encodeURIComponent(kb.keyboard_id.toLowerCase());
-                  return (
-                    <li
-                      key={i}
-                      style={{
-                        marginBottom: '15px',
-                        padding: '10px',
-                        borderBottom: '1px solid #ccc',
-                        display: 'flex',
-                        justifyContent: 'space-between',
-                        alignItems: 'center',
-                      }}
-                    >
-                      <div>
-                        <strong>{i + 1}. {kb.keyboard_name}</strong> ({kb.locale})<br />
-                        Coverage: <b>{kb.coverage_percentage.toFixed(1)}%</b> | 
-                        Overlap: <b>{kb.overlap_percentage.toFixed(1)}%</b>
-                      </div>
-                      <div>
-                        <Link
-                          href={`/visualizer?src=${simulatorSrc}`}
-                          passHref
-                        >
-                          <span className="keyboard-button">Try Keyboard</span>
-                        </Link>
-                      </div>
-                    </li>
-                  );
-                })}
-              </ol>
-            ) : (
-              <div>No keyboards found by coverage.</div>
-            )}
-
             {/* Top Keyboards by Overlap */}
-            <h2 style={{ marginTop: '30px' }}>Top Keyboards by Overlap</h2>
+            <h2>Top Keyboards by Overlap</h2>
             {results.top10ByOverlap?.length > 0 ? (
               <ol style={{ paddingLeft: '20px' }}>
                 {results.top10ByOverlap.map((kb, i) => {
@@ -149,6 +110,45 @@ export default function Home() {
               </ol>
             ) : (
               <div>No keyboards found by overlap.</div>
+            )}
+
+            {/* Top Keyboards by Coverage */}
+            <h2 style={{ marginTop: '30px' }}>Top Keyboards by Coverage</h2>
+            {results.top10ByCoverage?.length > 0 ? (
+              <ol style={{ paddingLeft: '20px' }}>
+                {results.top10ByCoverage.map((kb, i) => {
+                  const simulatorSrc = encodeURIComponent(kb.keyboard_id.toLowerCase());
+                  return (
+                    <li
+                      key={i}
+                      style={{
+                        marginBottom: '15px',
+                        padding: '10px',
+                        borderBottom: '1px solid #ccc',
+                        display: 'flex',
+                        justifyContent: 'space-between',
+                        alignItems: 'center',
+                      }}
+                    >
+                      <div>
+                        <strong>{i + 1}. {kb.keyboard_name}</strong> ({kb.locale})<br />
+                        Coverage: <b>{kb.coverage_percentage.toFixed(1)}%</b> | 
+                        Overlap: <b>{kb.overlap_percentage.toFixed(1)}%</b>
+                      </div>
+                      <div>
+                        <Link
+                          href={`/visualizer?src=${simulatorSrc}`}
+                          passHref
+                        >
+                          <span className="keyboard-button">Try Keyboard</span>
+                        </Link>
+                      </div>
+                    </li>
+                  );
+                })}
+              </ol>
+            ) : (
+              <div>No keyboards found by coverage.</div>
             )}
           </div>
 

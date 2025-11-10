@@ -50,7 +50,35 @@ export default function Navbar() {
             Visualizer
           </button>
         </Link>
+        <Link href="/report-bug" passHref>
+          <button
+            style={activeButton === 'report' ? { ...buttonStyle, ...activeStyle } : buttonStyle}
+            onMouseDown={() => handleMouseDown('report')}
+            onMouseUp={handleMouseUp}
+          >
+            Report a Bug
+          </button>
+        </Link>
+        <Link href="/features" passHref>
+          <button
+            style={activeButton === 'features' ? { ...buttonStyle, ...activeStyle } : buttonStyle}
+            onMouseDown={() => handleMouseDown('features')}
+            onMouseUp={handleMouseUp}
+          >
+            Request a Feature
+          </button>
+        </Link>
+        {/* External SILICON link */}
+        <button
+          style={activeButton === 'silicon' ? { ...buttonStyle, ...activeStyle } : buttonStyle}
+          onMouseDown={() => handleMouseDown('silicon')}
+          onMouseUp={handleMouseUp}
+          onClick={() => window.open('https://silicon.stanford.edu', '_blank', 'noopener,noreferrer')}
+        >
+          About SILICON
+        </button>
       </div>
     </nav>
+
   );
 }
