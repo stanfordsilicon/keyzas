@@ -2,8 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/team": "pages/team.js",
   "/features": "pages/features.js",
-  "/visualizer": "pages/visualizer.js",
-  "/report-bug": "pages/report-bug.js",
-  "/": "pages/index.js"
+  "/visualizer": "pages/visualizer.js"
 }

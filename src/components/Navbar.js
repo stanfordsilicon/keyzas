@@ -50,6 +50,15 @@ export default function Navbar() {
             Visualizer
           </button>
         </Link>
+        <Link href="/team" passHref>
+          <button
+            style={activeButton === 'team' ? { ...buttonStyle, ...activeStyle } : buttonStyle}
+            onMouseDown={() => handleMouseDown('team')}
+            onMouseUp={handleMouseUp}
+          >
+            Team
+          </button>
+        </Link>
         <Link href="/report-bug" passHref>
           <button
             style={activeButton === 'report' ? { ...buttonStyle, ...activeStyle } : buttonStyle}

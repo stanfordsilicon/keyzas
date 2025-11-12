@@ -189,3 +189,44 @@ textarea {
   background-color: #fffbead4;
   border-color: #7a5b42;
 }
+
+/* --- Team Card --- */
+.team-card {
+  display: flex;                 /* side by side */
+  flex-direction: row;
+  align-items: flex-start;       /* align top of image & text */
+  gap: 2rem;                     /* spacing between image and text */
+  margin-bottom: 4rem;
+  max-width: 1100px;             /* max width of the key */
+  width: 80vw;                   /* responsive width by viewport */
+  background: linear-gradient(190deg, #fffbead4, #d6c9b8);
+  padding: 40px 60px;
+  border-radius: 20px;
+  box-shadow: 
+    inset 8px -8px 0 #c2b49f,
+    inset -8px 8px 0 #fffdf4,
+    0 10px 15px rgba(0,0,0,0.25);
+  color: '#333';
+  text-shadow: 0 1px 0 rgba(255,255,255,0.6);
+  margin-left: auto;
+  margin-right: auto;            /* centers horizontally */
+}
+
+.team-card-image {
+  flex-shrink: 0;                /* prevents image from shrinking */
+  width: 360px;                  /* control size per person */
+  height: auto;
+  
+}
+
+.team-card-text {
+  flex: 1;                       /* text takes remaining space */
+  text-align: left;
+  margin-top: -1rem
+}
+
+.team-card:active {
+  transform: translateY(3px);
+  box-shadow: inset -4px -4px 0 #c2b49f, inset 4px 4px 0 #fffbea, 0 4px 8px rgba(0,0,0,0.25);
+}
+
