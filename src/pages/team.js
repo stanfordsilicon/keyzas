@@ -34,6 +34,7 @@ const teamMembers = [
   image: '/mullaney_headshot.jpeg', // make sure you have this image
   headshotWidth: 320,
   resume: '/Mullaney CV.pdf',        // optional, can be null
+  resumeLabel: 'CV',
   email: 'tsmullaney@stanford.edu',
   bio: [
     "Thomas S. Mullaney is a SILICON Co-PI and current Director. He is a Professor of Chinese History at Stanford University, Kluge Chair in Technology and Society at the Library of Congress, and a Guggenheim Fellow. He is the author or lead editor of 8 books, including The Chinese Computer: A Global History of the Information Age (MIT Press, 2024), Where Research Begins (University of Chicago Press, 2022, with Christopher Rea), The Chinese Typewriter: A History (MIT Press, 2017, winner of the Fairbank Prize), and Coming to Terms with the Nation: Ethnic Classification in Modern China (UC Press, 2010).",
