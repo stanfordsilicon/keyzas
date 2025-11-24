@@ -22,7 +22,7 @@ export default function ReportBug() {
     ];
 
     const body = encodeURIComponent(bodyLines.join('\n'));
-    window.location.href = `mailto:samanthaleventis@stanford.edu?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:silicon_project@stanford.edu?subject=${subject}&body=${body}`;
   }
 
   const labelStyle = {
@@ -76,8 +76,8 @@ export default function ReportBug() {
       <h1 style={{ fontSize: '32px', marginBottom: '16px', textAlign: 'left' }}>Report a Bug</h1>
       <p style={{ fontSize: '16px', marginBottom: '24px', textAlign: 'left' }}>
         Found an issue or unexpected behavior? Please fill out the form below with as much detail as possible, or email us directly at{' '}
-        <a href="mailto:samanthaleventis@stanford.edu" style={{ color: '#000', textDecoration: 'underline' }}>
-          samanthaleventis@stanford.edu
+        <a href="mailto:silicon_project@stanford.edu" style={{ color: '#000', textDecoration: 'underline' }}>
+          silicon_project@stanford.edu.
         </a>.
       </p>
 

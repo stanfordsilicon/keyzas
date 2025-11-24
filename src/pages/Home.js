@@ -36,7 +36,7 @@ export default function Home() {
   return (
     <div className="container">
       <h1>Keyzas</h1>
-      <p>Upload a character file to analyze the best matching keyboards. Characters should all be on seperate lines.</p>
+      <p>Upload a character file to find potential keyboard matches. </p>
 
       <input type="file" onChange={handleFileChange} />
       <button onClick={handleAnalyze}>Analyze</button>
