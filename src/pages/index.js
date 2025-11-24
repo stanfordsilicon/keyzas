@@ -57,7 +57,7 @@ export default function Home() {
 
       <div className="instruction">
         Enter your text — KeyZas will automatically extract unique characters
-        and find the best keyboard matches.
+        and find potential keyboard matches.
       </div>
 
       <textarea
