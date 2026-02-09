@@ -11,18 +11,17 @@
     "express": "^5.1.0",
     "formidable": "^3.5.4",
     "multer": "^2.0.2",
-    "next": "^15.5.4",
+    "next": "15.5.9",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-"scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-},
-
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
